@@ -1,3 +1,13 @@
+## Technologies:
+
+React Js
+ - Axios
+
+HTML, CSS, JS, Animate.css
+
+External API from: [TMDB](https://www.themoviedb.org)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
